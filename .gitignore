@@ -1,0 +1,9 @@
+*.o
+*.obj
+*.out
+*.app
+easyfind
+span
+mutantstack
+.vscode/
+.DS_Store
